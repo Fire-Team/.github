@@ -1,5 +1,3 @@
-                                    ![Fire Team](/blob/main/Fire%20Team%20logo.png)
-
 # Welcome y'al welcome to Fire Team!!
 > We're just a small team formed in 2018 by Om Rajguru, Piyush Joshi, Akshay Joshi.
 > We're looking forward to make this as big as possible. 
